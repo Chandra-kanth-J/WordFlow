@@ -1,0 +1,6 @@
+{
+  "name": "WordFlow",
+  "description": "A lightweight, zero-database English pronunciation trainer using browser speech synthesis at 1x, 0.75x, and 0.5x speeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
